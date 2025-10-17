@@ -67,8 +67,8 @@ You're ready to go!
 - [Lorenzo Pannacci](https://www.linkedin.com/in/lorenzo-pannacci/)
 - [Simone Fiorellino](https://scholar.google.com/citations?hl=en&user=nKMc4GQAAAAJ)
 - [Mario Edoardo Pandolfo](https://scholar.google.com/citations?user=wAeScL8AAAAJ&hl)
-- [Paolo Di Lorenzo](https://scholar.google.com/citations?hl=en&user=VZYvspQAAAAJ)
 - [Emilio Calvanese Strinati](https://scholar.google.com/citations?user=bWndGhQAAAAJ)
+- [Paolo Di Lorenzo](https://scholar.google.com/citations?hl=en&user=VZYvspQAAAAJ)
 
 ## Used Technologies
 
